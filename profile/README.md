@@ -17,8 +17,8 @@ Honestly, we are just a bunch of developers trying to figure out how classic Min
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| `Recraft.jar` | Trying to make old versions playable again. | 🛠️ Crafting |
-| `Golden Launcher` | Fork of the [olauncher](https://github.com/olauncher/olauncher) project planned to work with the Recraft.jar project. | 🧪 Exploring |
+| `Recraft.jar` | Trying to make old versions playable again. | 🧪 Exploring |
+| `Golden Launcher` | "It's not 2012 anymore" — A classic Swing-looking launcher made in Kotlin that actually works? | 🛠️ Active Project |
 
 ---
 
